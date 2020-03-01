@@ -30,12 +30,12 @@ M_step, variational_EM, inference_method
 
 
 ## Example of test data
-To test the algorithm, we created a function to generate a test dataset with known parameters for testing purpose.
+To test the algorithm, a function is created to generate a test dataset with known parameters for testing purpose.
 
 ## Example of real datasets
  Associated Press Data
 
-We applied our LDA models to the real dataset. The dataset is based on the 2204 documents from the Associated Press. The original dataset is available at: https://github.com/blei-lab/lda-c/tree/master/example
+The LDA models are applied to the real dataset. The dataset is based on the 2204 documents from the Associated Press. The original dataset is available at: https://github.com/blei-lab/lda-c/tree/master/example
 
 
 ## References
