@@ -5,9 +5,9 @@ setup(
       name='LDA-project-19',
       version=1.5,
       description='Latent Dirichlet Allocation',
-      url='https://github.com/mingjiezhao/LDA_final_project_SP2019',
-      author='Mingjie Zhao, Ziwei Zhu',
-      author_email='mz136@duke.edu',
+      url='https://github.com/sophiazzw7/Implementation-of-Latent-Dirichlet-Allocation',
+      author='Ziwei Zhu',
+      author_email='zz169@duke.edu',
       classifiers=[
                   'Development Status :: 3 - Alpha',
                   'Intended Audience :: Developers',
