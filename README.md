@@ -1,6 +1,6 @@
 # Implementation of Latent Dirichlet Allocation using Python
 Latent Dirichlet Allocation (LDA) is a very important model in machine learning area, which can
-automatically extract the hidden topics within a huge amount of documents and further represent
+automatically extract the hidden topics within a huge number of documents and further represent
 the theme of each document as an ensemble of topics. It is a three-level hierarchical Bayesian
 model, in which each item of a collection is modeled as a finite mixture over an underlying set
 of topics. Each topic is, in turn, modeled as an infinite mixture over an underlying set of topic probabilities. In the context of text modeling, the topic probabilities provide an explicit representation of a document. Due to the intractability of LDA posterior inference, many approximate inference techniques have been invented.In this study, Two efficient approximate inference techniques are used here: EM algorithm and gibbs algorithm, for empirical Bayes parameter estimation.
